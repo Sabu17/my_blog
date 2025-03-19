@@ -11,5 +11,25 @@
     <copyright>© 2025 Rahaf Abdullah</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 21:44:29 +0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Secondpost</title>
+      <link>//localhost:1313/posts/2025/secondpost/</link>
+      <pubDate>Wed, 19 Mar 2025 21:44:29 +0300</pubDate>
+      <author>Rahaf@gmail.com (Rahaf Abdullah)</author>
+      <guid>//localhost:1313/posts/2025/secondpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>//localhost:1313/posts/2025/firstpost/</link>
+      <pubDate>Wed, 19 Mar 2025 20:17:01 +0300</pubDate>
+      <author>Rahaf@gmail.com (Rahaf Abdullah)</author>
+      <guid>//localhost:1313/posts/2025/firstpost/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
